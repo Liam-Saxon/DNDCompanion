@@ -1,0 +1,15 @@
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\bin\Debug\WpfAppDND.exe.config
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\bin\Debug\WpfAppDND.exe
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\bin\Debug\WpfAppDND.pdb
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.csprojAssemblyReference.cache
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\MainWindow.g.cs
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\App.g.cs
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND_MarkupCompile.cache
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND_MarkupCompile.lref
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\MainWindow.baml
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.g.resources
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.Properties.Resources.resources
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.csproj.GenerateResource.cache
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.csproj.CoreCompileInputs.cache
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.exe
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.pdb
