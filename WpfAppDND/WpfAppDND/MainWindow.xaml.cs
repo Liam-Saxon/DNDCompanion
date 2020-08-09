@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfAppDND.Class;
 
 namespace WpfAppDND
 {
@@ -20,9 +21,25 @@ namespace WpfAppDND
     /// </summary>
     public partial class MainWindow : Window
     {
+        CharacterClass charclass = new CharacterClass();
+        
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        public void lblupdate()
+        {
+            lblStrengthMod.
+        }
+
+        private void cmbRace_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+           if(cmbRace.SelectedIndex == 1)
+            {
+                charclass.StrModGS = 2;
+                charclass.ChaModGS = 1;
+            }
         }
     }
 }

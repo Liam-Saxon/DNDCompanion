@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WpfAppDND.Class
 {
-    class CharacterClass
+    class CharacterClass : CharacterStats
     {
+
     }
 }

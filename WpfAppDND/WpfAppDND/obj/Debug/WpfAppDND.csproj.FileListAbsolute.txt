@@ -13,3 +13,4 @@ C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debu
 C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.csproj.CoreCompileInputs.cache
 C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.exe
 C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\WpfAppDND.pdb
+C:\Users\noxas\OneDrive\Desktop\Desktop\VS projects\WpfAppDND\WpfAppDND\obj\Debug\GeneratedInternalTypeHelper.g.cs
